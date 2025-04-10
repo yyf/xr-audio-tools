@@ -8,4 +8,4 @@
 ## SDKs
 - [Meta](https://assetstore.unity.com/packages/tools/integration/meta-xr-audio-sdk-264557): Meta XR Audio SDK
 - [Apple](https://developer.apple.com/documentation/PHASE): PHASE (Physical Audio Spatialization Engine) 
-- [Google] (https://resonance-audio.github.io/resonance-audio/): a multi-platform spatial audio SDK
+- [Google](https://resonance-audio.github.io/resonance-audio/): a multi-platform spatial audio SDK
